@@ -1,6 +1,6 @@
 ## ✌️ **Nemo Czanderlitch**
-(alt. Nino Čandrlić, Нино Чандрлић) 
-A full-stack developer
+- (alt. Nino Čandrlić, Нино Чандрлић) 
+- a full-stack developer
 
 ## 👀 Interests: 
   - **Physics** (specifically fields pertaining to Robotics)
